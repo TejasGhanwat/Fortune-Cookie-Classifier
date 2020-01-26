@@ -1,0 +1,6 @@
+Training Accuracy Naive Bayes = 96.8944099378882 %
+Training Accuracy Naive Bayes SK LEARN = 97.82608695652173 %
+Training Accuracy Logistic Regression  SK Learn= 94.40993788819875 %
+Testing Accuracy Naive Bayes= 76.23762376237624 %
+Testing Accuracy Naive Bayes SK LEARN = 65.34653465346535 %
+Testing Accuracy using Logistic Regression SK Learn = 79.20792079207921 %
